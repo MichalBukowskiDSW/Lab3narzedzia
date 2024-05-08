@@ -1,2 +1,2 @@
 # Lab3narzedzia
-desription
+description
